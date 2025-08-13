@@ -27,6 +27,3 @@ Perfect for saving interesting moments, tutorials, or any part of a video you wa
 5. The extension should now appear in your extensions list.
 
 
-
-## Files Structure
-
